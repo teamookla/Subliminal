@@ -1,3 +1,0 @@
-[submodule "Unit Tests/OCMock"]
-	path = Unit Tests/OCMock
-	url = git@github.com:erikdoe/ocmock.git
